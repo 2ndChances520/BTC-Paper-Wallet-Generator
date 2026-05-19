@@ -49,7 +49,7 @@ To guarantee the absolute security of your funds, **NEVER** generate a paper wal
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Bitcoin-Paper-Wallet.git
+   git clone https://github.com/2ndChances520/Bitcoin-Paper-Wallet.git
 Navigate to the directory:
 code
 Bash
