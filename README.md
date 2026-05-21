@@ -41,7 +41,7 @@ To guarantee the absolute security of your funds, **NEVER** generate a paper wal
 
 *(💡 Pro-Tip:Never post a picture of your paper wallet design here!)*
 
-![Paper Wallet Preview]([[https://via.placeholder.com/800x400/f7931a/ffffff?text=Add+Screenshot+of+Wallet+Design+Here](https://bitcoinpaperwallets.com/](https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/posts/images/789224404398773303/56f42b8d-7d59-4118-9b3b-f1e6a2a13657.jpg)))
+![Paper Wallet Preview]([)
 
 ---
 
